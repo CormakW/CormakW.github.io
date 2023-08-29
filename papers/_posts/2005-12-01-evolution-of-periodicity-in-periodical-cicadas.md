@@ -8,7 +8,7 @@ journal: "Ecology"
 volume: 86
 issue: 12
 pages: 3200-3211
-authors: "Nicolas Lehmann-Ziebarth, Paul P. Heideman, Rebecca A. Shapiro, Sonia L. Stoddart, Chien Ching, Lilian Hsiao, Gordon R. Stephenson, Paul A. Milewski, Anthony R. Ives"
+authors: "Nicolas Lehmann-Ziebarth, Paul P. Heideman, Rebecca A. Shapiro, Sonia L. Stoddart, Chien Ching, Lilian C. Hsiao, Gordon R. Stephenson, Paul A. Milewski, and Anthony R. Ives"
 image:
 fulltext: https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/04-1615
 pdf: 
