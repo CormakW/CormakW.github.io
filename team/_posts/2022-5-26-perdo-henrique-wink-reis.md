@@ -10,7 +10,7 @@ twitter:
 linkedin: pedrohwr
 github: 
 scholar: 
-image: /assets/images/team/pedro.jpg
+image: /assets/images/team/pedro.JPG
 cv: 
 alum: false
 ---
