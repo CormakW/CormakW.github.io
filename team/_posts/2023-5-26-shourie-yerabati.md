@@ -10,7 +10,7 @@ twitter:
 linkedin: shourieyerabati
 github: 
 scholar: 
-image: /assets/images/team/shourie.jpg
+image: /assets/images/team/shourie.JPG
 cv: 
 alum: false
 ---
