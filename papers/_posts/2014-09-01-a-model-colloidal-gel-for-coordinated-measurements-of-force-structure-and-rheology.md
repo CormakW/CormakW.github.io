@@ -8,7 +8,7 @@ journal: " Journal of Rheology"
 volume: 58
 issue: 5
 pages: 1485-1505
-authors: "L. C. Hsiao, K. A. Whitaker, M. J. Solomon & E. M. Furst"
+authors: "Lilian C. Hsiao, Michael J. Solomon, Kathryn A. Whitaker, Eric M. Furst"
 image: /assets/images/papers/non-coalescence.png
 fulltext: https://pubs.aip.org/sor/jor/article/58/5/1485/241861/A-model-colloidal-gel-for-coordinated-measurements
 pdf: 
