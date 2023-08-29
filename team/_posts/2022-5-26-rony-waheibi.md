@@ -10,7 +10,7 @@ twitter:
 github: RonyWaheibi
 linkedin: rony-waheibi
 scholar:
-image: /assets/images/team/rony.jpg 
+image: /assets/images/team/rony.JPG 
 cv:
 alum: false
 ---
