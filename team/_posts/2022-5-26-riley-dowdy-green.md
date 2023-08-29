@@ -10,7 +10,7 @@ twitter:
 github: 
 scholar: 
 linkedin: riley-dowdy-green-7567b515b
-image: /assets/images/team/riley.jpg
+image: /assets/images/team/riley.JPG
 cv: 
 alum: false
 ---
