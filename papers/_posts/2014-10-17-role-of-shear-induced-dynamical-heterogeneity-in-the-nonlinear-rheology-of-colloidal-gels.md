@@ -8,7 +8,7 @@ journal: "Soft Matter"
 volume: 10
 issue: 
 pages: 9254-9259
-authors: "L. C. Hsiao, H. Kang, K. H. Ahn & M. J. Solomon"
+authors: "Lilian C. Hsiao, Heekyoung Kang, Kyung Hyun Ahnb, and Michael J. Solomon"
 image: /assets/images/papers/copepods.png
 fulltext: https://pubs.rsc.org/is/content/articlehtml/2014/sm/c4sm01375a
 pdf: 
