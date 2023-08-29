@@ -24,7 +24,7 @@ subcategories: [subcat1, subcat2]
 published: true
 peerreview: true
 review: false
-tags: [evolution,periodicity,cicadas]
+tags: [Allee effects, evolution of periodicity]
 ---
 {% include JB/setup %}
 
