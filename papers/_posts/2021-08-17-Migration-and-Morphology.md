@@ -8,7 +8,7 @@ journal: "Langmuir"
 volume: 
 issue: 
 pages: 
-authors: "Kristine M. Smith and Lilian H. Hsiao"
+authors: "Kristine M. Smith and Lilian C. Hsiao"
 image: 
 fulltext: 
 pdf: 
