@@ -8,7 +8,7 @@ journal: ""
 volume: 
 issue: 
 pages: 
-authors: "Lilian C. Hsiao, Indranil Saha-Dalal, Ronald G. Larsonb, and Michael J. Solomon"
+authors: "Lilian C. Hsiao, Indranil Saha-Dalal, Ronald G. Larson, and Michael J. Solomon"
 image: 
 fulltext: 
 pdf: 
