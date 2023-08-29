@@ -10,7 +10,7 @@ linkedin: oluwatobi-ojuade-590ab0153
 twitter: 
 github: 
 scholar: 
-image: /assets/images/team/tobi.jpg
+image: /assets/images/team/tobi.JPG
 cv: 
 alum: false
 ---
