@@ -9,7 +9,7 @@ twitter:
 linkedin: Cormak
 github: CormakW
 scholar: tZSHxXMAAAAJ&hl=en
-image: /assets/images/team/cormak.jpg
+image: /assets/images/team/cormak.JPG
 cv: /assets/pdfs/Weeks_CV.pdf
 alum: false
 ---
