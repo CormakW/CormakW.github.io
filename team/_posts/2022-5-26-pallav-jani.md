@@ -10,7 +10,7 @@ twitter:
 github: 
 scholar: Hjg4ATMAAAAJ&hl=en&oi=ao
 linkedin: pallavjani
-image: /assets/images/team/pallav.jpg
+image: /assets/images/team/pallav.JPG
 cv: /assets/pdfs/Jani_CV.pdf
 alum: false
 ---
