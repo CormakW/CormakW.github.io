@@ -2,7 +2,7 @@
 layout: member
 title: Rony Waheibi
 category: Graduate Student
-position: Ph.D. Candidate Chemical Engineering
+position: Ph.D. Candidate in Chemical Engineering
 nickname: rony
 handle: rony
 email: rawaheib@ncsu.edu

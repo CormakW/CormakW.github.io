@@ -2,7 +2,7 @@
 layout: member
 title: "Shivani Sutrave"
 category: member
-position: Master student
+position:
 nickname: Shivani
 handle: 
 email: 
