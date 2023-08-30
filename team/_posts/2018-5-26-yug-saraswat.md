@@ -2,7 +2,7 @@
 layout: member
 title: "Yug Saraswat"
 category: Graduate Student
-position: Ph.D. Student Chemical Engineering
+position: Ph.D. Candidate Chemical Engineering
 nickname: Yug
 handle: Yug
 email: ysarasw@ncsu.du
