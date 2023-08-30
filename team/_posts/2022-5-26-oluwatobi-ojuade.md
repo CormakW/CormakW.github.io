@@ -12,7 +12,7 @@ github:
 scholar: 
 image: /assets/images/team/tobi.JPG
 degree: [B.S. Chemical Engineering&#44 University of Lagos&#44 Nigeria (2018)] 
-research area: Tribology of stimuli-responsive elastomers
+research_area: Tribology of stimuli-responsive elastomers
 cv: 
 alum: false
 ---

@@ -13,7 +13,7 @@ linkedin: pallavjani
 image: /assets/images/team/pallav.JPG
 degree: [B.Tech. Oils&#44 Oleochemicals & Surfactants Technology&#44 Institute of Chemical Technology (2017),
 M.S.E. Chemical Engineering&#44 University of Michigan (2018)] 
-research area: Slip of nonwoven materials
+research_area: Slip of nonwoven materials
 cv: /assets/pdfs/Jani_CV.pdf
 alum: false
 ---

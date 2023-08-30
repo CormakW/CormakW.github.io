@@ -12,7 +12,7 @@ github:
 scholar: 
 image: /assets/images/team/shourie.JPG
 degree: [B.Tech Chemical Engineering&#44 B V Raju Institute of Technology (2021)] 
-research area: Composite soft materials, colloidal aging phenomena
+research_area: Composite soft materials, colloidal aging phenomena
 cv: 
 alum: false
 ---
