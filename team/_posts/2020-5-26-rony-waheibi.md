@@ -11,6 +11,8 @@ github: RonyWaheibi
 linkedin: rony-waheibi
 scholar:
 image: /assets/images/team/rony.JPG 
+degree: [B.S. Chemical Engineering&#44 University of Rochester (2021)] 
+research area: Colloids, networks, and imaging 
 cv:
 alum: false
 ---

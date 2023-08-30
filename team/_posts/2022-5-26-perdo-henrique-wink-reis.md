@@ -11,6 +11,8 @@ linkedin: pedrohwr
 github: 
 scholar: 
 image: /assets/images/team/pedro.JPG
+degree: [B.S. Chemical Engineering&#44 University of Oklahoma (2022)] 
+research area: Hydrogel-based tactile sensors
 cv: 
 alum: false
 ---
